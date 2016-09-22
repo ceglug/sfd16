@@ -68,8 +68,8 @@ hr.star-primary:after {
   margin: 0 auto;
 }
 header {
+  background-image: url("../img/portfolio/cake.png");
   text-align: center;
-  background: #FFFFFF;
   color: white;
 }
 header .container {
